@@ -16,9 +16,9 @@
   // document
   //   .querySelector("form")
   //   .addEventListener("submit", handleSubmit);
-  const formSubmit = (event)=>{
-    event.preventDefault();
-    document
-    .querySelector("form")
-    .submit()
-  }
+  // const formSubmit = (event)=>{
+  //   event.preventDefault();
+  //   document
+  //   .querySelector("form")
+  //   .submit()
+  // }
